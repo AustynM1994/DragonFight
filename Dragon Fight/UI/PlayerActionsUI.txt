@@ -1,0 +1,9 @@
+Warrior Abilities:
+	1. Slash: The Warrior swings his sword for 10-20 Damage!
+	2. Shield Wall: The Warrior protects himself and the Priest for one turn.
+Priest Abilties:
+	3. Heal Warrior: The Priest heals the Warrior for 20-25 Health.
+	4. Heal Priest: The Priest heals himself for 20-25 Health.
+	5. Smite: The Priest strikes the Dragon with Holy Power for 5-10 Damage!
+
+Enter a number above to use the ability: 
